@@ -1,0 +1,12 @@
+1.docker swarm vs k8s
+2.why kubernetes?
+3.Secrets and it's secure way?
+4.K8s file extension?
+5.yml vs JSON?
+6.Few errors which you faced recently in your project and fix for them?
+7.How many servers you handling currently in prod ?
+8.K8s architecture?
+9.Components of the k8s? 
+10.ETCD? It's role?
+11.Node vs master?
+12.How to connect from node to master?

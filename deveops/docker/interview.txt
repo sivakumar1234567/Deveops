@@ -1,0 +1,11 @@
+1.What is docker?
+2.what is container?
+3.Docker vs k8s?
+4.How to login to docker?
+5.How to delete container?
+6.How to kill container when stopped and when running?
+7.what is docker file?
+8.what commands available in docker file? And it's importantance? 
+9.what is entry point and it's usecase?
+10.copy vs add?
+11.entrypoint vs CMD

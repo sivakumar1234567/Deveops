@@ -1,0 +1,11 @@
+Services?
+2. Under EC2 list some components?
+3.ebs vs EFS?
+4.types of ELB's?
+5.s3? it's role?
+6.IAM? It's role?
+7.IAM policy?
+8.custom policy vs predefined?
+9.ALB vs NLB
+10.How to build a static website?
+And other few basics related to EC2

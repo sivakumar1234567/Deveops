@@ -1,0 +1,11 @@
+1. What are the few major plugins using in your project and explain each every plug-in use case
+2.Build periodically??
+3.Cron jobs importance?
+4.Job types in jenkins and each use case?
+5.What is jenkins file and it's importants? Syntax for that?
+6.Master slave architecture? How to implement?
+7. how to incorporate docker into jenkins? 
+8.How to implement CICD using jenkins?
+9.How good you are into jenkins(asked first question forgot to mention it in the beginning)
+10.Scripted pipeline and declarative pipeline ? Difference between them?
+11.What are the ways to install plugins ?
